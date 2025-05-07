@@ -1,4 +1,4 @@
-<h2>CifraCesarPP</h2>
+<h2>Cifra Cesar Extra</h2>
 Uma pequena modificacao que eu fiz no algoritmo da cifra cesar.
 <h2></h2>
 Na versão normal, cada letra de uma mensagem é deslocada de acordo com uma chave.
